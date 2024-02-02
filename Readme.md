@@ -1,6 +1,6 @@
 # Práctica Abandono de Empleados
 
-Lo primero es decir que este proyecto sale de la web [DS4B](https://ds4b.teachable.com/) donde realmente se aprenden cosas muy interesantes, así que desde aquí mi agradecimiento.
+Lo primero es decir que este proyecto es obtenido en la web [DS4B](https://ds4b.teachable.com/) donde realmente se aprenden cosas muy interesantes, así que desde aquí mi agradecimiento.
 
 Este proyecto se centra en el análisis del abandono de empleados. Utiliza un conjunto de datos que contiene información sobre los empleados y si han abandonado la empresa o no, y con ese análisis hacer un modelo predictivo de Machine Learning para poder solucionar el problema de la fuga de empleados. 
 
